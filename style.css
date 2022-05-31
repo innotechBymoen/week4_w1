@@ -1,0 +1,16 @@
+#page_title {
+    font-family: monospace;
+}
+
+#article_one {
+    background-color: burlywood;
+}
+
+#article_two {
+    background-color: mediumpurple;
+}
+
+.article_image {
+    height: 200px;
+    margin: 10px;
+}
